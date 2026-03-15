@@ -1,0 +1,8 @@
+Video URL:
+https://frontallobe3.github.io/player/?list=https://raw.githubusercontent.com/frontallobe3/34494b0bb9b17f8d/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://frontallobe3.github.io/player/?list=https://raw.githubusercontent.com/frontallobe3/34494b0bb9b17f8d/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Subtitles:
+  - eng (en): https://user-images.lasyhost.tech/subtitles/32a668e6cfcb67f526954e3e81942349.srt
